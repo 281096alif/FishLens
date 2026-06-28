@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ic_shutter.xml - camera shutter button -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,5C10.82,5 5,10.82 5,18C5,25.18 10.82,31 18,31C25.18,31 31,25.18 31,18C31,10.82 25.18,5 18,5ZM18,28C12.48,28 8,23.52 8,18C8,12.48 12.48,8 18,8C23.52,8 28,12.48 28,18C28,23.52 23.52,28 18,28Z"/>
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M18,11C14.13,11 11,14.13 11,18C11,21.87 14.13,25 18,25C21.87,25 25,21.87 25,18C25,14.13 21.87,11 18,11Z"/>
+</vector>
